@@ -1,0 +1,7 @@
+C:\Users\Kab-31-13\Desktop\tema18prkt2\obj\Debug\tema18prkt2.csproj.AssemblyReference.cache
+C:\Users\Kab-31-13\Desktop\tema18prkt2\obj\Debug\tema18prkt2.csproj.CoreCompileInputs.cache
+C:\Users\Kab-31-13\Desktop\tema18prkt2\bin\Debug\tema18prkt2.exe.config
+C:\Users\Kab-31-13\Desktop\tema18prkt2\bin\Debug\tema18prkt2.exe
+C:\Users\Kab-31-13\Desktop\tema18prkt2\bin\Debug\tema18prkt2.pdb
+C:\Users\Kab-31-13\Desktop\tema18prkt2\obj\Debug\tema18prkt2.exe
+C:\Users\Kab-31-13\Desktop\tema18prkt2\obj\Debug\tema18prkt2.pdb
